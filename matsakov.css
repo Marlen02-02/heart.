@@ -1,0 +1,12 @@
+.heart {
+    position: relative;
+    font-size: 500px;
+}
+.heart span {
+    position: absolute;
+    font-size: 200px;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
